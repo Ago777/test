@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start-dev": "env-cmd -e dev react-scripts start",
-    "start-test": "env-cmd -e test react-scripts start",
+    "start-test": "env-cmd -e  test react-scripts start",
     "start-prod": "env-cmd -e prod react-scripts start",
     "build-dev": "env-cmd -e dev react-scripts build",
     "build-test": "env-cmd -e test react-scripts build",
